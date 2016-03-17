@@ -1,4 +1,4 @@
 # domesy-ady
 Hi everybody!
 
-This repository is ours first one.
+We're trying to learn some programming, cause that means lots of money :)
