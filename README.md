@@ -1,2 +1,4 @@
 # domesy-ady
-Training programmes written by Domes&amp;Ada
+Hi everybody!
+
+This repository is ours first one.
